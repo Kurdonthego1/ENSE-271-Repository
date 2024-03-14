@@ -1,0 +1,1 @@
+For this lab we were tasked to create a persona for a job application site
